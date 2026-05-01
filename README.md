@@ -6,7 +6,7 @@ For the updated and refactored portfolio version, visit:
 
 https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
 
-<<<<<<< HEAD
+
 # 📊 Data Warehouse de Ventas de Celulares
 
 Proyecto académico de implementación completa de un **Data Warehouse** con esquema estrella, ETL, SCD Tipo 2, y análisis multidimensional usando SQL Server.
