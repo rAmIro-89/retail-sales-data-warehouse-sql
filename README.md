@@ -1,3 +1,11 @@
+# Retail Sales Data Warehouse — Legacy Version
+
+This is the original academic version of the project.
+
+For the updated and refactored portfolio version, visit:
+
+https://github.com/rAmIro-89/retail-sales-data-warehouse-sql-refactored
+
 <<<<<<< HEAD
 # 📊 Data Warehouse de Ventas de Celulares
 
